@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Strength Training Basics",
+    "trainer": "Husain",
+    "location": "Community Center, Bhopal",
+    "summary": "Learn the fundamentals of strength training to build muscle and endurance.",
+    "image": "https://img.freepik.com/free-photo/bodybuilder-training-arm-with-resistance-band_7502-4758.jpg",
+    "date": "Oct 11-13, 2024",
+    "timings": "6:00 AM - 9:00 AM",
+    "tag": "Filling Fast",
+    "trainerImage": "assets/images/trainer.png"
+  },
+  {
+    "title": "HIIT for Beginners",
+    "trainer": "Ali",
+    "location": "Town Hall, Mumbai",
+    "summary": "Kickstart your fitness journey with beginner-friendly high-intensity interval training.",
+    "image": "https://img.freepik.com/free-photo/man-training-gym_23-2148024287.jpg",
+    "date": "Oct 11-12, 2024",
+    "timings": "7:30 AM - 10:30 AM",
+    "tag": "Early Bird",
+    "trainerImage": "assets/images/trainer.png"
+  },
+  {
+    "title": "Yoga for Flexibility",
+    "trainer": "Nida",
+    "location": "Greenwood Park, Delhi",
+    "summary": "Improve your flexibility and balance with guided yoga sessions.",
+    "image": "https://img.freepik.com/free-photo/attractive-fit-man-working-out-gym_23-2149175370.jpg",
+    "date": "Oct 11-13, 2024",
+    "timings": "5:30 AM - 8:30 AM",
+    "tag": "Filling Fast",
+    "trainerImage": "assets/images/trainer.png"
+  },
+  {
+    "title": "Cardio Blast",
+    "trainer": "Ali",
+    "location": "Sports Complex, Bhopal",
+    "summary": "Boost your stamina and burn calories with this intense cardio workout.",
+    "image": "https://img.freepik.com/free-photo/man-training-gym_23-2148024287.jpg",
+    "date": "Oct 12-13, 2024",
+    "timings": "6:30 AM - 9:30 AM",
+    "tag": "Early Bird",
+    "trainerImage": "assets/images/trainer.png"
+  },
+  {
+    "title": "Weight Loss Program",
+    "trainer": "Sana",
+    "location": "Health Club, Chennai",
+    "summary": "Achieve your weight loss goals with personalized training and diet plans.",
+    "image": "https://img.freepik.com/free-photo/bodybuilder-training-arm-with-resistance-band_7502-4758.jpg",
+    "date": "Oct 11-12, 2024",
+    "timings": "8:00 AM - 11:00 AM",
+    "tag": "Filling Fast",
+    "trainerImage": "assets/images/trainer.png"
+  },
+  {
+    "title": "Powerlifting Techniques",
+    "trainer": "Murtaza",
+    "location": "Fitness Arena, Bhopal",
+    "summary": "Master the art of powerlifting with professional guidance.",
+    "image": "https://img.freepik.com/free-photo/attractive-fit-man-working-out-gym_23-2149175370.jpg",
+    "date": "Oct 12-13, 2024",
+    "timings": "7:00 AM - 10:00 AM",
+    "tag": "Early Bird",
+    "trainerImage": "assets/images/trainer.png"
+  },
+  {
+    "title": "Marathon Prep",
+    "trainer": "Imran",
+    "location": "City Stadium, Pune",
+    "summary": "Get ready for your next marathon with this comprehensive training program.",
+    "image": "https://img.freepik.com/free-photo/man-training-gym_23-2148024287.jpg",
+    "date": "Oct 11-12, 2024",
+    "timings": "6:00 AM - 9:00 AM",
+    "tag": "Filling Fast",
+    "trainerImage": "assets/images/trainer.png"
+  },
+  {
+    "title": "CrossFit Essentials",
+    "trainer": "Ali",
+    "location": "Wellness Hub, Bhopal",
+    "summary": "Discover the fundamentals of CrossFit to build strength and endurance.",
+    "image": "https://img.freepik.com/free-photo/bodybuilder-training-arm-with-resistance-band_7502-4758.jpg",
+    "date": "Oct 11-13, 2024",
+    "timings": "7:30 AM - 10:30 AM",
+    "tag": "Early Bird",
+    "trainerImage": "assets/images/trainer.png"
+  },
+  {
+    "title": "Pilates for Core Strength",
+    "trainer": "Meera",
+    "location": "Town Hall, Bangalore",
+    "summary": "Strengthen your core and improve posture with Pilates.",
+    "image": "https://img.freepik.com/free-photo/attractive-fit-man-working-out-gym_23-2149175370.jpg",
+    "date": "Oct 11-12, 2024",
+    "timings": "6:00 AM - 9:00 AM",
+    "tag": "Filling Fast",
+    "trainerImage": "assets/images/trainer.png"
+  },
+  {
+    "title": "Boxing Fitness",
+    "trainer": "Husain",
+    "location": "Community Center, Bhopal",
+    "summary": "Learn boxing techniques while enhancing your fitness levels.",
+    "image": "https://img.freepik.com/free-photo/man-training-gym_23-2148024287.jpg",
+    "date": "Oct 12-13, 2024",
+    "timings": "8:00 AM - 11:00 AM",
+    "tag": "Early Bird",
+    "trainerImage": "assets/images/trainer.png"
+  },
+  {
+    "title": "Bodybuilding Masterclass",
+    "trainer": "Murtaza",
+    "location": "City Gym, Bhopal",
+    "summary": "Transform your physique with advanced bodybuilding techniques.",
+    "image": "https://img.freepik.com/free-photo/bodybuilder-training-arm-with-resistance-band_7502-4758.jpg",
+    "date": "Oct 11-12, 2024",
+    "timings": "6:30 AM - 9:30 AM",
+    "tag": "Filling Fast",
+    "trainerImage": "assets/images/trainer.png"
+  },
+  {
+    "title": "Zumba Dance Fitness",
+    "trainer": "Riya",
+    "location": "Dance Studio, Hyderabad",
+    "summary": "Have fun while staying fit with Zumba dance workouts.",
+    "image": "https://img.freepik.com/free-photo/attractive-fit-man-working-out-gym_23-2149175370.jpg",
+    "date": "Oct 11-13, 2024",
+    "timings": "7:00 AM - 10:00 AM",
+    "tag": "Early Bird",
+    "trainerImage": "assets/images/trainer.png"
+  },
+  {
+    "title": "Functional Fitness",
+    "trainer": "Husain",
+    "location": "Wellness Hub, Bhopal",
+    "summary": "Enhance everyday movements and reduce injury risk with functional fitness.",
+    "image": "https://img.freepik.com/free-photo/bodybuilder-training-arm-with-resistance-band_7502-4758.jpg",
+    "date": "Oct 11-12, 2024",
+    "timings": "8:30 AM - 11:30 AM",
+    "tag": "Filling Fast",
+    "trainerImage": "assets/images/trainer.png"
+  },
+  {
+    "title": "Stretching and Recovery",
+    "trainer": "Nida",
+    "location": "Central Park, Jaipur",
+    "summary": "Relax and recover with stretching routines designed for all levels.",
+    "image": "https://img.freepik.com/free-photo/man-training-gym_23-2148024287.jpg",
+    "date": "Oct 12-13, 2024",
+    "timings": "7:30 AM - 10:30 AM",
+    "tag": "Early Bird",
+    "trainerImage": "assets/images/trainer.png"
+  },
+  {
+    "title": "Athletic Conditioning",
+    "trainer": "Nida",
+    "location": "City Stadium, Bhopal",
+    "summary": "Train like an athlete to improve speed, agility, and performance.",
+    "image": "https://img.freepik.com/free-photo/attractive-fit-man-working-out-gym_23-2149175370.jpg",
+    "date": "Oct 11-13, 2024",
+    "timings": "6:00 AM - 9:00 AM",
+    "tag": "Filling Fast",
+    "trainerImage": "assets/images/trainer.png"
+  }
+]
