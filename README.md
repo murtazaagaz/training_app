@@ -8,6 +8,7 @@ This is a Flutter-based training app developed as part of an assignment. The app
 ## Repository Details
 - **Repository URL:** [GitHub Repository](https://github.com/murtazaagaz/training_app)
 - **APK Download:** [**Download APK**](https://github.com/murtazaagaz/training_app/blob/main/app-release.apk)
+- **Video Demo:** [*Watch*](https://drive.google.com/file/d/1Ypq51c849bLHrY9VVJpZNtcT-qG6-n4z/view?usp=sharing)
 
 ---
 
