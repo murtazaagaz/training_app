@@ -112,7 +112,7 @@ class TrainingsList extends StatelessWidget {
               alignment: Alignment.bottomRight,
               child: SizedBox(
                 height: 32,
-                width: 100,
+                width: 120,
                 child: ElevatedButton(
                     style: ElevatedButton.styleFrom(
                         padding: EdgeInsets.all(0),
